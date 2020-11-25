@@ -1,0 +1,77 @@
+
+etaBest = {
+'BPS.DD.Yungelson'    :  [ 1.75673e+00,  3.95999e-02],
+'BPS.DD.Wang/Han'     :  [ 1.11848e+00,  2.52124e-02],
+'BPS.DD.Ruiter'       :  [ 1.17842e+00,  2.65636e-02],
+'BPS.DD.Mennekens'    :  [ 3.22209e+00,  7.26316e-02],
+'BPS.DD.Bours/Toonen' :  [ 3.45751e+00,  7.79384e-02],
+'BPS.DD.Claeys'       :  [ 1.37064e+00,  3.08965e-02],
+'BPS.SD.Yungelson'    :  [ 5.3936e+02 ,   1.2158e+01],
+'BPS.SD.Wang/Han'     :  [ 1.2476e+00 ,   2.8124e-02],
+'BPS.SD.Ruiter'       :  [ 4.3642e+01 ,   9.8377e-01],
+'BPS.SD.Mennekens'    :  [ 1.3527e+00 ,   3.0493e-02],
+'BPS.SD.Bours/Toonen' :  [ 5.3983e+00 ,   1.2169e-01],
+'BPS.SD.Claeys'       :  [ 3.5725e+01 ,   8.0530e-01],
+'BPS.SD+DD.Yungelson'   : [ 1.7510e+00 , 3.9471e-02],
+'BPS.SD+DD.Wang/Han'    : [ 1.0000e+00 , 2.2542e-02],
+'BPS.SD+DD.Ruiter'      : [ 1.1474e+00 , 2.5865e-02],
+'BPS.SD+DD.Mennekens'   : [ 9.5274e-01 , 2.1476e-02],
+'BPS.SD+DD.Bours/Toonen': [ 2.1076e+00 , 4.7510e-02],
+'BPS.SD+DD.Claeys'      : [ 1.3200e+00 , 2.9755e-02],
+}
+
+
+
+
+      BPS.SD+DD.Mennekens  0.953 +- 0.021
+         BPS.SD.Yungelson  539.360 +- 12.158
+          BPS.SD.Wang/Han  1.248 +- 0.028
+         BPS.SD.Mennekens  1.353 +- 0.030
+         BPS.SD+DD.Ruiter  1.147 +- 0.026
+         BPS.SD+DD.Claeys  1.320 +- 0.030
+         BPS.DD.Mennekens  3.222 +- 0.073
+   BPS.SD+DD.Bours/Toonen  2.108 +- 0.048
+            BPS.SD.Claeys  35.725 +- 0.805
+       BPS.SD+DD.Wang/Han  1.000 +- 0.023
+            BPS.DD.Claeys  1.371 +- 0.031
+      BPS.DD.Bours/Toonen  3.458 +- 0.078
+      BPS.SD.Bours/Toonen  5.398 +- 0.122
+          BPS.DD.Wang/Han  1.118 +- 0.025
+            BPS.DD.Ruiter  1.178 +- 0.027
+            BPS.SD.Ruiter  43.642 +- 0.984
+      BPS.SD+DD.Yungelson  1.751 +- 0.039
+         BPS.DD.Yungelson  1.757 +- 0.040
+
+
+BPS.DD.Bours/Toonen          3.458 +-  0.078
+BPS.DD.Claeys                1.371 +-  0.031
+BPS.DD.Mennekens             3.222 +-  0.073
+BPS.DD.Ruiter                1.178 +-  0.027
+BPS.DD.Wang/Han              1.118 +-  0.025
+BPS.DD.Yungelson             1.757 +-  0.040
+
+BPS.SD.Bours/Toonen          5.398 +-  0.122
+BPS.SD.Claeys               35.725 +-  0.805
+BPS.SD.Mennekens             1.353 +-  0.030
+BPS.SD.Wang/Han              1.248 +-  0.028
+BPS.SD.Ruiter               43.642 +-  0.984
+BPS.SD.Yungelson           539.360 +- 12.158
+
+BPS.SD+DD.Bours/Toonen       2.108 +-  0.048
+BPS.SD+DD.Claeys             1.320 +-  0.030
+BPS.SD+DD.Mennekens          0.953 +-  0.021
+BPS.SD+DD.Ruiter             1.147 +-  0.026
+BPS.SD+DD.Wang/Han           1.000 +-  0.023
+BPS.SD+DD.Yungelson          1.751 +-  0.039
+
+
+# using G14 0.7 scaling from Kroupa to diet-Salpeter
+# and using Rodney scaling of B13 CSFR(z) from Chabrier to diet-Salpeter
+
+BPS.SD.Yungelson   			770.52 +-  1.7369e+01
+BPS.SD.Wang/Han   			  1.78 +-  4.0177e-02
+BPS.SD.Ruiter   				 62.34 +-  1.4054e+00
+BPS.SD.Mennekens   			  1.93 +-  4.3561e-02
+BPS.SD.Bours/Toonen   		  7.71 +-  1.7384e-01
+BPS.SD.Claeys   				 51.03 +-  1.1504e+00
+
