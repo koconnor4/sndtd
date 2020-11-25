@@ -1,0 +1,9 @@
+## a Errors give first statistical then systematic uncertainties.
+## b Assuming a t−1 delay time model of the form given in Equation (4).
+## c Using the Behroozi et al. (2013) cosmic star formation history, which assumes a Chabrier (2003) IMF. d Using the SN Ia rate data directly, without any DTD model assumption.
+## eta ~ [10^-4 Msol^-1 yr^-1]
+## NIa/M* ~ [10^-3 Msol^-1]
+Sample $\eta_{Ia}$ f_P $N_{Ia}/M_*^{b,c}$ $N_{Ia}/M_*^{c,d}$
+CANDELS&CLASH 2.25_+1.36_1.18_+0.72_0.15 0.21_+0.34_0.21_+0.49_0.12 0.79_+1.52_0.50_+2.11_0.16 0.60_+0.97_0.37_+0.87_0.46
+Ground 1.38_+0.24_0.23_+0.43_0.21 0.59_+0.09_0.10_+0.05_0.04 0.84_+0.39_0.27_+0.44_0.54 na
+All 1.60_+0.24_0.23_+0.25_0.59 0.53_+0.09_0.10_+0.10_0.26 0.98_+0.43_0.30_+0.87_0.46 0.79_+0.88_0.72_+1.09_0.75
